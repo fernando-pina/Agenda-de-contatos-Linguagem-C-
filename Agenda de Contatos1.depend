@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594262915 source:c:\users\user\onedrive - fatec centro paula souza\fatec - ads\2º s\linguagem de programação\prova (p2)\agenda de contatos1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
